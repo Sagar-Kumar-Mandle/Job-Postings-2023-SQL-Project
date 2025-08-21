@@ -1,0 +1,1 @@
+CREATE DATABASE job_postings_2023;
